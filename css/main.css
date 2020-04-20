@@ -151,11 +151,15 @@ aside {
 /*----------------------------Features---------------------------------------*/
 
 .features {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .features-items {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*---------------------------reviews-----------------------------------------*/
