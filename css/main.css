@@ -136,11 +136,15 @@ header nav ul {
 /*------------------Mobile Styles -Homepahe ---------------------------------*/
 
 .hero-area {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 aside {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
