@@ -101,7 +101,9 @@ textarea {
 /*-------------Base Header - Footer Styles ----------------------------------*/
 
 header, footer {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header {
@@ -113,7 +115,7 @@ header .content-wrapper {
 }
 
 header figure {
-  
+
 }
 
 header nav {
