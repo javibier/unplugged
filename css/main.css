@@ -112,7 +112,9 @@ header {
 }
 
 header .content-wrapper {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header figure {
@@ -120,11 +122,15 @@ header figure {
 }
 
 header nav {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header nav ul {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*------------------Mobile Styles -Homepahe ---------------------------------*/
@@ -181,12 +187,16 @@ footer {
 }
 
 footer .social {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
 footer .social-icon {
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
