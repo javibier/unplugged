@@ -189,7 +189,9 @@ aside {
 /*---------------------------faq----------------------------------------------*/
 
 .faq {
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
