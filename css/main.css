@@ -115,7 +115,7 @@ header .content-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  flex-flow: row wrap;
 }
 
 header figure {
