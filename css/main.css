@@ -114,7 +114,7 @@ header, footer {
 }
 
 header {
-
+  padding: 15px 0;
 }
 
 header .content-wrapper {
@@ -150,7 +150,6 @@ header nav ul {
 .hero-area {
   display: flex;
   justify-content: center;
-  align-items: center;
   flex-flow: row wrap;
 }
 
