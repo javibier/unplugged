@@ -258,7 +258,11 @@ aside {
 
 
 footer {
+  flex-direction: column;
+}
 
+footer p {
+  margin: 0;
 }
 
 footer .social {
@@ -278,11 +282,6 @@ footer .content-wrapper {
   width: 55%;
   margin: 50px 0;
 }
-
-
-
-
-
 
 /* ==========================================================================
    Helper classes
