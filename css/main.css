@@ -186,6 +186,9 @@ aside {
   flex-flow: row wrap;
 }
 
+.features p {
+  margin: 0;
+}
 /*---------------------------reviews-----------------------------------------*/
 
 .reviews {
