@@ -125,8 +125,10 @@ header .content-wrapper {
   margin: 0;
 }
 
-header figure {
-
+.header-divider {
+  width: 100%;
+  height: 1px;
+  margin: 10px 0 20px 0;
 }
 
 header nav {
@@ -140,7 +142,7 @@ header nav {
 header nav ul {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  width: 100%;
 }
 
 /*------------------Mobile Styles -Homepahe ---------------------------------*/
