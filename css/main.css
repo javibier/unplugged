@@ -385,6 +385,14 @@ aside {
   /* Style adjustments for viewports that meet the condition */
 }
 
+@media only screen and (min-width: 768px) {
+/*Tablet styles here*/
+}
+ 
+@media only screen and (min-width: 1200px) {
+/*Desktop styles here*/
+}
+
 @media print,
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 1.25dppx),
