@@ -389,7 +389,7 @@ aside {
 /*General Area*/
 
 .content-wrapper {
-  width: 640px;
+  max-width: 640px;
   margin: 100px 0;
 }
 
@@ -402,11 +402,11 @@ header {
 
 header .content-wrapper {
   justify-content: space-between;
-  width:
+  width: 100%;
 }
 
 header nav {
-  width: 
+  width: 20%;
 }
 
 header nav ul {
