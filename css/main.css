@@ -459,11 +459,6 @@ aside .content-wrapper .form {
   width:         
 }
 
-/* faq */
-
-.faq-content {
-  flex-basis: auto;
-}
 
 /*footer*/
 
@@ -484,6 +479,12 @@ footer .contact {
 
 footer .copyright {
   width:
+}
+
+/***FAQ Page***/
+
+.faq-content {
+  flex-basis: auto;
 }
 
 }
