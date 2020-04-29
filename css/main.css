@@ -387,6 +387,11 @@ aside {
 
 @media only screen and (min-width: 768px) {
 
+.content-wrapper {
+  width: 640px;
+  margin: 100px 0;
+}
+
 .features article {
   width: 50%; 
 }
