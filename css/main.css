@@ -447,9 +447,7 @@ aside .content-wrapper .form {
 
 .reviews article {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-
+  justify-content: space-between;
 }
 
 .reviews article div {
