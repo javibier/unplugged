@@ -387,11 +387,36 @@ aside {
 
 @media only screen and (min-width: 768px) {
 
+/*General Area*/
+
 .content-wrapper {
   width: 640px;
   margin: 100px 0;
 }
 
+/*Header*/
+
+header {
+ 
+}
+
+header .content-wrapper {
+    width:
+}
+
+header nav {
+    width: 
+}
+
+header nav ul {
+
+}
+
+.header-divider {
+    display: none;
+}
+
+    
 .features article {
   width: 50%; 
 }
