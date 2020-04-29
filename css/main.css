@@ -422,13 +422,15 @@ header nav ul {
 /* Aside */
 
 aside .content-wrapper {
-    margin: 50px 0;
+  margin: 50px 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 aside .content-wrapper .form-description,
 aside .content-wrapper .form {        
-    width:         
-    margin: 0;
+  width:         
+  margin: 0;
 }
 
 /*Features*/
