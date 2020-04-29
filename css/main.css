@@ -430,8 +430,14 @@ aside .content-wrapper .form {
     margin: 0;
 }
 
+/*Features*/
+
 .features article {
   width: 50%; 
+}
+
+.features .features-item-description {
+    width: 
 }
 
 footer .content-wrapper {
