@@ -465,7 +465,9 @@ footer .content-wrapper {
 }
     
 .footer-content {
-
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 footer .contact {
