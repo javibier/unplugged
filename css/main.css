@@ -500,21 +500,22 @@ footer .copyright {
 .mission-content {
     display: flex;
     justify-content: space-between;
-    align-items: 
+    align-items: center;
+    padding-top: 20px;
 }
 
 .mission-content p {
-    width: 
+    width: 45%;
 }
 
 .contact-section .content-wrapper h2 {
-    width:
+    width: 80%;
 }
 
 .contact-content {
     display: flex;
     justify-content: space-between;
-    align-items:
+    align-items: flex-start;
 }
 
 }
