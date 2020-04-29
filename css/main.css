@@ -416,7 +416,20 @@ header nav ul {
     display: none;
 }
 
-    
+/* Hero Area */
+ 
+/* Aside */
+
+aside .content-wrapper {
+    margin: 50px 0;
+}
+
+aside .content-wrapper .form-description,
+aside .content-wrapper .form {        
+    width:         
+    margin: 0;
+}
+
 .features article {
   width: 50%; 
 }
