@@ -487,6 +487,18 @@ footer .copyright {
   flex-basis: auto;
 }
 
+.faq .content-wrapper {
+  justify-content: space-between;
+}
+
+.faq-content {
+  flex-basis: 40%;
+}
+
+.faq h2 {
+  width: 100%;
+}
+
 /***About Page***/
 
 .mission-content {
