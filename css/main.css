@@ -483,10 +483,6 @@ footer .copyright {
 
 /***FAQ Page***/
 
-.faq-content {
-  flex-basis: auto;
-}
-
 .faq .content-wrapper {
   justify-content: space-between;
 }
