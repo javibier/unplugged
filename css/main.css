@@ -396,7 +396,8 @@ aside {
 /*Header*/
 
 header {
-  justify-content: space-between;
+  justify-content: space-around;
+  padding: 33px 0;
 }
 
 header .content-wrapper {
