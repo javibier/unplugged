@@ -397,23 +397,24 @@ aside {
 /*Header*/
 
 header {
- 
+  justify-content: space-between;
 }
 
 header .content-wrapper {
-    width:
+  justify-content: space-between;
+  width:
 }
 
 header nav {
-    width: 
+  width: 
 }
 
 header nav ul {
-
+  justify-content: space-between;
 }
 
 .header-divider {
-    display: none;
+  display: none;
 }
 
 /* Hero Area */
