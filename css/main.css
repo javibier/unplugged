@@ -437,12 +437,11 @@ aside .content-wrapper .form {
 /*Features*/
 
 .features article {
-  width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-flow:
-  flex-basis: auto;
+  flex-flow: column wrap;
+  flex-basis: 50%;
 }
 
 .features .features-item-description {
