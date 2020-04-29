@@ -424,7 +424,7 @@ header nav ul {
 aside .content-wrapper {
   margin: 50px 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 aside .content-wrapper .form-description,
@@ -440,12 +440,15 @@ aside .content-wrapper .form {
 }
 
 .features .features-item-description {
-    width: 
+  width: 
 }
 
 /* Reviews */
 
 .reviews article {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 
 }
 
