@@ -490,7 +490,7 @@ footer .copyright {
 /***About Page***/
 
 .mission-content {
-    display:
+    display: flex;
     justify-content: space-between;
     align-items: 
 }
@@ -504,8 +504,8 @@ footer .copyright {
 }
 
 .contact-content {
-    display:
-    justify-content:
+    display: flex;
+    justify-content: space-between;
     align-items:
 }
 
