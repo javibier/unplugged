@@ -447,8 +447,10 @@ aside .content-wrapper .form {
 }
 
 .reviews article div {
-    width:         
+  width:         
 }
+
+/*footer*/
 
 footer .content-wrapper {
   width: 
@@ -460,11 +462,11 @@ footer .content-wrapper {
 }
 
 footer .contact {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 footer .copyright {
-    width:
+  width:
 }
 
 }
