@@ -509,19 +509,24 @@ footer .copyright {
 }
 
 .contact-section .content-wrapper h2 {
-    width: 80%;
+  width: 80%;
 }
 
 .contact-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 }
  
 @media only screen and (min-width: 1200px) {
 /*Desktop styles here*/
+
+.hero-area .content-wrapper {
+  width: 80%;
+}
+
 }
 
 @media print,
