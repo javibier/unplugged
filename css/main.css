@@ -120,11 +120,13 @@ a {
  
 h2 {
   font-family: 'Poppins', sans-serif;
+  font-size: 1.875em;
 }
  
 h3, 
 h4 {
   font-family: 'Poppins', sans-serif;
+  font-size: 1.125em
 }
  
 p {
