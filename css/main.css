@@ -651,6 +651,10 @@ footer .copyright {
   max-width: 960px;
 }
 
+.hero-area {
+  min-height: 775px;
+}
+
 .hero-area h1 {
   max-width: 60%;
 }
