@@ -531,6 +531,11 @@ aside .content-wrapper {
   justify-content: space-around;
 }
 
+aside .content-wrapper .form-description,
+aside .content-wrapper .form {
+  width: 30%;
+}
+
 }
 
 @media print,
