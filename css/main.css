@@ -258,6 +258,7 @@ footer .copyright {
 }
 
 aside {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -298,6 +299,7 @@ aside {
 /*---------------------------reviews-----------------------------------------*/
 
 .reviews {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
