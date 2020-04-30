@@ -548,6 +548,10 @@ aside .content-wrapper .form {
   flex-basis: 30%;
 }
 
+.reviews article div {
+  width: 42%;
+}
+
 }
 
 @media print,
