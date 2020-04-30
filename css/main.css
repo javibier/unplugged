@@ -204,10 +204,6 @@ header nav ul {
   width: 100%;
 }
 
-header {
-  background: url('img/hero.jpg') center no-repeat #333;
-}
-
 footer {
   flex-direction: column;
 }
@@ -245,6 +241,9 @@ footer .copyright {
 /*------------------Mobile Styles -Homepage ---------------------------------*/
 
 .hero-area {
+  background: url('../img/hero.jpg') center no-repeat #333;
+  background-size: cover;
+  min-height: 500px;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
