@@ -542,7 +542,11 @@ aside .content-wrapper .form {
 
 .features h2 {
   width: 90%;
-}  
+}
+
+.features article {
+  flex-basis: 30%;
+}
 
 }
 
