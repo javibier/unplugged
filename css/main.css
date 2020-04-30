@@ -166,6 +166,7 @@ address {
 /*-------------Base Header - Footer Styles ----------------------------------*/
 
 header, footer {
+  background-color: #202322;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -561,6 +562,10 @@ aside .content-wrapper .form {
   width: 45%;         
 }
 
+.reviews h3 {
+  width: 75%;
+  margin: 0;
+}
 
 /*footer*/
 
