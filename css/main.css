@@ -523,8 +523,8 @@ footer .copyright {
 @media only screen and (min-width: 1200px) {
 /*Desktop styles here*/
 
-.hero-area .content-wrapper {
-  width: 80%;
+.content-wrapper {
+  max-width: 960px;
 }
 
 }
