@@ -528,7 +528,7 @@ footer .copyright {
 }
 
 .hero-area h1 {
-    width: 60%;
+  max-width: 60%;
 }
 
 aside .content-wrapper {
@@ -539,6 +539,10 @@ aside .content-wrapper .form-description,
 aside .content-wrapper .form {
   width: 30%;
 }
+
+.features h2 {
+  width: 90%;
+}  
 
 }
 
