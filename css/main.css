@@ -362,6 +362,7 @@ input[type=button] {
 /*--------------------------mission-----------------------------------------*/
 
 .mission {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
