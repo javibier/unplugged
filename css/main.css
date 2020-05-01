@@ -402,6 +402,7 @@ input[type=button] {
 /*---------------------------faq----------------------------------------------*/
 
 .faq {
+  background-color: #527158;
   display: flex;
   justify-content: center;
   align-items: center;
