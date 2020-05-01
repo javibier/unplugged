@@ -372,11 +372,12 @@ input[type=button] {
   margin: 0;
 }
 
-.map {
+.map figure {
   position: relative;
   padding-bottom: 75%;
   height: 0;
   overflow: hidden;
+  width: 100%;
 }
 
 .map iframe {
