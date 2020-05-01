@@ -658,6 +658,12 @@ footer i {
   padding-right: 20px;
 }
 
+footer .social-icons {
+  width: 12.5em;
+  justify-content: space-between;
+}
+
+
 /***FAQ Page***/
 
 .faq .content-wrapper {
