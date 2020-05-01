@@ -632,6 +632,10 @@ footer .copyright {
   width:
 }
 
+footer i {
+  padding-right: 20px;
+}
+
 /***FAQ Page***/
 
 .faq .content-wrapper {
