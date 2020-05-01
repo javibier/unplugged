@@ -639,15 +639,20 @@ footer .copyright {
 /***About Page***/
 
 .mission-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
 }
 
 .mission-content p {
-    width: 45%;
+  width: 45%;
 }
+
+.map figure {
+  padding-bottom: 45.5%;
+}
+
 
 .contact-section .content-wrapper h2 {
   width: 80%;
