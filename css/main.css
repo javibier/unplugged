@@ -246,6 +246,9 @@ footer .copyright {
   margin: 20px 0;
 }
 
+footer i {
+  font-size: 1.75em;
+}
 
 /*------------------Mobile Styles -Homepage ---------------------------------*/
 
@@ -331,6 +334,12 @@ input[type=button] {
   text-align: center;
   margin: 0;
 }
+
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 /*---------------------------reviews-----------------------------------------*/
 
 .reviews {
@@ -709,11 +718,6 @@ aside .content-wrapper .form {
 
 .features article {
   flex-basis: 30%;
-}
-
-.features i {
-  font-size: 3.75em;
-  margin-bottom: 40px;
 }
 
 .reviews article div {
