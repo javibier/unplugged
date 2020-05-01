@@ -152,16 +152,12 @@ address {
   font-style: normal;
 }
  
-.content-wrapper {
- 
-}
 /*-----------------------------Base-----------------------------------------------*/
 
 .content-wrapper {
   width: 90%;
   margin: 50px 0;
 }
-
 
 /*-------------Base Header - Footer Styles ----------------------------------*/
 
@@ -216,6 +212,7 @@ header nav ul {
 
 footer {
   flex-direction: column;
+  text-align: center;
 }
 
 footer p {
@@ -250,6 +247,8 @@ footer .copyright {
 footer i {
   font-size: 1.75em;
 }
+
+
 
 /*------------------Mobile Styles -Homepage ---------------------------------*/
 
