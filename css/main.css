@@ -640,6 +640,7 @@ footer .content-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: row;
 }
 
 footer .contact {
@@ -655,7 +656,7 @@ footer .copyright {
 }
 
 footer i {
-  padding-right: 20px;
+  padding-right: 0;
 }
 
 footer .social-icons {
