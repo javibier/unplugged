@@ -116,7 +116,6 @@ ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
-
 }
  
 a {
@@ -660,7 +659,7 @@ footer .contact {
   margin-bottom: 0;
 }
 
-footer h4, p {
+footer h4 {
   margin-bottom: 40px;
 }
 
