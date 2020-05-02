@@ -114,6 +114,7 @@ body {
 ul, 
 ol {
   list-style-type: none;
+
 }
  
 a {
@@ -209,6 +210,10 @@ header nav ul {
   justify-content: space-around;
   width: 100%;
   padding-left: 0px;
+}
+
+header nav ul li {
+  font-size: 1.125em;
 }
 
 footer {
