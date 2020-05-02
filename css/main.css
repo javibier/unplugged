@@ -679,6 +679,12 @@ footer .social-icons {
   width: 100%;
 }
 
+.faq h4,
+.faq p {
+  font-size: .875em;
+  line-height: 1.125;
+}
+
 /***About Page***/
 
 .mission-content {
